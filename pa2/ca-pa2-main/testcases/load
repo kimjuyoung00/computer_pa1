@@ -1,2 +1,0 @@
-load testcases/program-basic
-dump 0x1000 0x5c
